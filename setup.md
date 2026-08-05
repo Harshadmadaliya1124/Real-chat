@@ -1,4 +1,4 @@
-# Quick Setup Guide
+## Quick Setup Guide..
 
 Follow these steps to get the chat application running locally:
 
