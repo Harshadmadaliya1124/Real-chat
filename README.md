@@ -1,4 +1,4 @@
-## Real-Time Chat Application
+# Real-Time Chat Application
 
 A full-stack real-time chat application built with Next.js, Node.js, Express, MongoDB, and Socket.IO. Features include user authentication, personal messaging, group chats, real-time messaging, online status, and typing indicators.
 
